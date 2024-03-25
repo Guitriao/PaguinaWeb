@@ -1,2 +1,2 @@
-# PaguinaWeb
+# PaginaWeb
 pagina de juegos
